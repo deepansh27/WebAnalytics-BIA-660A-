@@ -113,8 +113,8 @@ def test(username,password,rev_text, rev_rating, restaurantID):
     
     
 if __name__=="__main__":
-    username = 'dp27@email.com' 
-    password = 'Sayali@25'
+    username = '' 
+    password = ''
     rev_text = 'Visited dili junction last night. Great ambience, good food. Highly recommend Papri chat.'
     rev_rating = 4
     restaurantID = 'dilli-junction-hoboken-3'
